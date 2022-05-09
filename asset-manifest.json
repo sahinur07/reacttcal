@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacttcal/static/css/main.5e300975.css",
+    "main.js": "/reacttcal/static/js/main.d5ffd88f.js",
+    "index.html": "/reacttcal/index.html",
+    "main.5e300975.css.map": "/reacttcal/static/css/main.5e300975.css.map",
+    "main.d5ffd88f.js.map": "/reacttcal/static/js/main.d5ffd88f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e300975.css",
+    "static/js/main.d5ffd88f.js"
+  ]
+}
